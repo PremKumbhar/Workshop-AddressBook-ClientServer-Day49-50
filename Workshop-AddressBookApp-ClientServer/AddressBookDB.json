@@ -1,0 +1,27 @@
+{"AddresBookDB" :[
+    {   "Id" : 1,
+        "_FullName" : "Prem Kumbhar",
+        "_Address"  : "Washi",
+        "_phoneNumber" : 7350447788,
+        "_City" : "Kolhapur",
+        "_State" : "Maharshtra",
+        "_Zipcode" : 416001
+    },
+    {   "Id" : 2,
+        "_FullName" : "Prathmesh Kumbhar",
+        "_Address"  : "Moshi",
+        "_phoneNumber" : 7744969900,
+        "_City" : "Pune",
+        "_State" : "Maharshtra",
+        "_Zipcode" : 411005
+    },
+    {   "Id" : 3,
+        "_FullName" : "Rohit Kumar ",
+        "_Address"  : "Mumbai",
+        "_phoneNumber" : 99999999999,
+        "_City" : "Mumbai",
+        "_State" : "Maharshtra",
+        "_Zipcode" : 4000064
+    }
+    ]
+}    
